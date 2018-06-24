@@ -11,5 +11,5 @@ To run the code, execute the command -
      
      python model_load.py
      
-We use keras library with tensorflow backend to train our model.
+For coding, We use keras library with tensorflow backend and python 3.5 version.
                 
