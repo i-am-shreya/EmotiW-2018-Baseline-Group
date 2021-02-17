@@ -1,5 +1,4 @@
-# EmotiW-2018-Baseline-Group
-Author - Shreya Ghosh
+# EmotiW-2018-Baseline-Group (GAF 3.0)
  
 This folder contains two files-
 
